@@ -1,8 +1,8 @@
-# Product Service - TDD, BDD and CI/CD
+# ci-cd-final-project
 
 ## Project Name
 
-Product Service - TDD, BDD and CI/CD
+ci-cd-final-project
 
 ## Description
 
