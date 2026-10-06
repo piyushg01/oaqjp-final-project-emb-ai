@@ -2,7 +2,9 @@
 
 ## Project Name
 
-ci-cd-final-project
+# ci-cd-final-project
+
+[![Build Status](https://github.com/piyushg01/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)](https://github.com/piyushg01/devops-capstone-project/actions/workflows/ci-build.yaml)
 
 ## Description
 
